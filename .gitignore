@@ -2,3 +2,8 @@
 __pycache__/
 *.db
 .envImages/
+
+.env
+**/.env
+
+Images/
